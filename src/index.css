@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.swiper-button-next,
+.swiper-button-prev {
+  color: #f97316 !important;
+}
+
+.swiper-pagination-bullet-active {
+  background: #f97316 !important;
+}
+
+.product-carousel {
+  padding: 2rem 0;
+}
