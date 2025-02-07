@@ -131,7 +131,7 @@ export function Navbar({ darkMode, setDarkMode, onSearch }: NavbarProps) {
               className="flex items-center bg-white text-orange-500 px-4 py-2 rounded-lg hover:bg-orange-100"
             >
               <MessageCircle className="h-5 w-5 mr-2" />
-              RECEBA NADA DE PROMOÇÕES
+              RECEBA PROMOÇÕES POR WHATSApp
             </a>
             <button
               onClick={() => setDarkMode(!darkMode)}
